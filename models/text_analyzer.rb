@@ -41,5 +41,5 @@ class TextAnalyzer
  
     biggest
   end
-  binding.pry
 end
+  binding.pry
